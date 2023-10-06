@@ -25,4 +25,4 @@ City - Строка (Город)
 [1,2...10] <- Навигация
 ```
 
-<video src='navigation.mp4' width=180/>
+![scrin](https://github.com/otolaa/ORM_pagenavigation/blob/main/ezgif-4-37c26f6f74.gif "scrin")
