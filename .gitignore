@@ -1,0 +1,5 @@
+# Ignore IDE
+.idea
+.vscode
+# Ignore files
+.section.php
